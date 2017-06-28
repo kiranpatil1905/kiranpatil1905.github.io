@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+    
+ <iframe src="http://migration2-vulcan7.cs52.force.com/KB" width="1200" height="1200">
+        alternative content for browsers which do not support iframe.
+    </iframe>
+</body>
+</html>
