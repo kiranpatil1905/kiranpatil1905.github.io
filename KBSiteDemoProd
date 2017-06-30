@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <iframe src="https://vulcan7.force.com/KB" width="1200" height="1200">
+        alternative content for browsers which do not support iframe.
+    </iframe>
+  </body>
+</html>
